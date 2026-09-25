@@ -1,4 +1,3 @@
-"use client";
 import { PaperProps, SxProps, useMediaQuery, useTheme } from "@mui/material";
 import { forwardRef, PropsWithChildren, MouseEvent } from "react";
 import { BottomSheet } from "../bottom-sheet";

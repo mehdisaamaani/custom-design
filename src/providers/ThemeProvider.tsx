@@ -1,4 +1,3 @@
-"use client";
 
 import { createCustomTheme } from "@/shared/styles";
 import { ThemeProvider, CssBaseline } from "@mui/material";
